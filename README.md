@@ -26,7 +26,5 @@ It is built using MySQL, Python, and Tkinter, implementing core DBMS concepts su
 - Trigger log viewer  
 - Custom SQL query execution  
 
----
 
-## Project Structure
 
